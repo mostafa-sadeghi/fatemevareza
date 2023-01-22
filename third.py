@@ -54,3 +54,12 @@ n2 = "4567"
 
 
 '''
+string = "abcdefghijk"
+print(string[5:8])
+print(string[8:])
+
+n1 = "123"
+n2 = "4567"
+
+n = n1 + n2
+print(n)
