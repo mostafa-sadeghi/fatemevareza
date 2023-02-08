@@ -37,3 +37,22 @@
 name = input('enter a name: ')
 family = input('enter your family: ')
 print('your name is:', name, 'and your family is:', family)
+print(f'your name is:{name} and your family is: {family}')
+
+
+name = "reza"
+family = "ghandi"
+
+message = name + ' ' + family
+
+print(message)
+
+
+star = '*' * 12
+
+print(star)
+
+name = "fateme"
+family = "ghandi"
+message = f"hello {name} {family}"
+print(message)
