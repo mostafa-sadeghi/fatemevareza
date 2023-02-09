@@ -37,7 +37,7 @@
 name = input('enter a name: ')
 family = input('enter your family: ')
 print('your name is:', name, 'and your family is:', family)
-print(f'your name is:{name} and your family is: {family}')
+print(f'your name is: {name} and your family is: {family}')
 
 
 name = "reza"
