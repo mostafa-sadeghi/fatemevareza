@@ -1,12 +1,12 @@
-shopping_list = []
-# print(type(shopping_list))
+# sabad = []
+# # print(type(shopping_list))
 
-shopping_list.append("potato")
-shopping_list.append("cheese")
-shopping_list.append("mashroom")
-shopping_list.append("milk")
+# sabad.append("potato")
+# sabad.append("cheese")
+# sabad.append("mashroom")
+# sabad.append("milk")
 
-print("shopping list after adding items", shopping_list)
+# print("sabad man", sabad)
 
 
 students = []
